@@ -17,11 +17,10 @@ TO CHANGE YOUR AMOUNT OF CRYPTO. CLICK THE TOP 3 DOTS AT THE TOP TIGHT OF THE WI
   💵
   
   DISCLAIMER. WE ARE NOT RESPONSIBLE FOR COPYRIGHT, THIS IS A WHOLE DIFFERENT VERSION OF EXODUS.
-___________            .__                       
-\_   _____/__  _______ |  | _____ _____________  
- |    __)_\  \/  /  _ \|  | \__  \\_  __ \____ \ 
- |        \>    <  <_> )  |__/ __ \|  | \/  |_> >
-/_______  /__/\_ \____/|____(____  /__|  |   __/ 
-        \/      \/               \/      |__|    
-
+    ______           __               
+   / ____/  ______  / /___ __________ 
+  / __/ | |/_/ __ \/ / __ `/ ___/ __ \
+ / /____>  </ /_/ / / /_/ / /  / /_/ /
+/_____/_/|_|\____/_/\__,_/_/  / .___/ 
+                             /_/      
   
